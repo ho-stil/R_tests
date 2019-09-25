@@ -1,4 +1,4 @@
-# reproducible excample for plotly-problem:
+# reproducible excample for plotly issue 762:
 
 library(crosstalk)
 library(plotly)
